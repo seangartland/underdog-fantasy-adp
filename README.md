@@ -1,2 +1,2 @@
-# underdog_fantasy_adp
+# underdog-fantasy-adp
 Underdog Fantasy ADP data
